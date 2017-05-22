@@ -1,0 +1,139 @@
+main.swf Movie Report
+----------------------
+
+Metadata
+--------
+Bytes    Value
+-----    -----
+ 1221    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash CS4 Professional</xmp:CreatorTool> <xmp:CreateDate>2009-10-17T15:41:39-07:00</xmp:CreateDate> <xmp:MetadataDate>2009-12-28T15:26:21-08:00</xmp:MetadataDate> <xmp:ModifyDate>2009-12-28T15:26:21-08:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:F77F1174072068119734F9D38C0197B3</stRef:instanceID> <stRef:documentID>xmp.did:F77F1174072068119734F9D38C0197B3</stRef:documentID> <stRef:originalDocumentID>xmp.did:F77F1174072068119734F9D38C0197B3</stRef:originalDocumentID> </xmpMM:DerivedFrom> <xmpMM:DocumentID>xmp.did:D6D02AF40B206811A9618807BA14BA32</xmpMM:DocumentID> <xmpMM:InstanceID>xmp.iid:D6D02AF40B206811A9618807BA14BA32</xmpMM:InstanceID> <xmpMM:OriginalDocumentID>xmp.did:F77F1174072068119734F9D38C0197B3</xmpMM:OriginalDocumentID> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1        1029645        1029645    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                                0            71                 39463
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+drink3                                 0             0                     0
+drink2                                 0             0                     0
+drink1                                 0             0                     0
+drink0                                 0             0                     0
+food3                                  0             0                     0
+food2                                  0             0                     0
+food1                                  0             0                     0
+food0                                  0             0                     0
+shade                                 39             0                     0
+foodBtn2                               0             0                     0
+foodBtn1                               0             0                     0
+locationContent                        0             0                     0
+fountain                               0             0                     0
+map                                    0             0                     0
+sign                                   0             0                     0
+locationCopy                           0          1382                     0
+copyHolderClip                        63             0                     0
+photoHolderClip                       57             0                     0
+vibeCopy                               0          1719                     0
+vibePhoto                              0             0                     0
+subNavHolder                           0             0                     0
+subText                                0           172                     0
+subNav                                 0             0                     0
+blackCoast                             0             0                     0
+mainNavHolder                          0             0                     0
+hmSalty2                               0            62                     0
+hmSalty1                               0            66                     0
+hmElement3                            38             0                     0
+hmElement2                             0             0                     0
+hmElement1                            42             0                     0
+navTitleTxt                            0           172                     0
+navBack                               58             0                     0
+hmLogo                                 0             0                     0
+homeTxt                                0           128                     0
+homeImage                              0             0                     0
+navigation                             0             0                     0
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+LuchitaPayol-LaRuda           14031     CDEHINORSTUabcdefghijklmnopqrstuvwxyz
+Geneva                          538    @
+Justanotherstampfont          38934     !(),-.012345689:?ABCDEFGHLMNOPRSTVWYabcdefghijklmnopqrstuvwxyó–’•
+NerveTonic                     2403     aceghlorstwy
+BankGothic-Medium Bold         1737     ,3abdegilmnoqstuvyz
+
+ActionScript Bytes    Location
+------------------    --------
+             39463    Scene 1:Frame 1
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+vibePhoto.jpg                  40095      877560   JPEG Quality=80
+sign.jpg                       15959      433024   JPEG Quality=80
+fountain.jpg                   12690      446108   JPEG Quality=70
+map.jpg                        24991      437980   JPEG Quality=80
+playaLogoHm.png                19458      392200   JPEG Quality=80
+backgroundHome.jpg             37806     2588160   JPEG Quality=75
+blackCoastImage.png            56106      514420   JPEG Quality=80
+homeMainPhoto.jpg              75954     1048676   JPEG Quality=85
+b&w                            29368      455616   JPEG Quality=80
+QUESADILLA _ 6.5 Melted cheese and salsa fresca with a side of      13589      406640   JPEG Quality=80
+APERITIVOS small plates   CHIPS AND SALSA Salsa verde and La Pa     11823      399740   JPEG Quality=80
+Viva Mexican food that doesn’t need a warning label. At Playa G     12670      318424   JPEG Quality=80
+ocean copy 2                    9372       95480   JPEG Quality=80
+Shape 1_1                       2252       87580   JPEG Quality=80
+playa copy 2                    9411       87612   JPEG Quality=80
+Shape 3                         1970       79040   JPEG Quality=80
+earth copy 2                    8242       87000   JPEG Quality=80
+Shape 2_1                       2189       72324   JPEG Quality=80
+ ENSALADAS SOPAS  TORTILLA SOUP _ 5.5 Chile-infused chicken bro     18067      707112   JPEG Quality=80
+PLAYA PLATES Served with rice, choice of beans, guacamole, sour      8500      246240   JPEG Quality=80
+ TACOS AL VAPOR Salsa fresca and shredded cabbage  CARNITAS _ 8      7124      264040   JPEG Quality=80
+BURRITOS a la carte Served with guacamole, sour cream and salsa     12246      392916   JPEG Quality=80
+Steak and Shrimp PLATES Served with rice, choice of beans and w      7321      206080   JPEG Quality=80
+b&w                            27835      582400   JPEG Quality=80
+BOCADILLAS  HAMBURGUESA Fresh ground Niman Ranch beef, chile ai      6034      161600   JPEG Quality=80
+Follow us on Facebook and Twitter!      6244       47808   JPEG Quality=80
+Follow box                      3051       76048   JPEG Quality=80
+Whenever possible we use meat, poultry, fish and produce that i      2839       57552   JPEG Quality=80
+BRUNCH MENU Served Saturday & Sunday 9:30am - 2pm  HUEVOS RANCH     14944      429048   JPEG Quality=80
+Sometimes you just can’t hang. We get that. That’s why Playa’s      22066      199592   JPEG Quality=80
+box                            15247      328232   JPEG Quality=80
+logo                           31058     1341536   JPEG Quality=80
+b&w                            36401      594996   JPEG Quality=80
+Ultirita Patron Silver, Patron Citronge, agave nectar, fresh sq     11161      380952   JPEG Quality=80
+ MARGARITAs  Playa Rita Jose Cuervo Gold, Triple Sec,  house ma      9722      319084   JPEG Quality=80
+All bow to the mighty agave! Playa Grill takes tequila seriousl     21331      404684   JPEG Quality=80
+margarita blended              17269      294560   JPEG Quality=80
+Layer 3                        37161      593424   JPEG Quality=80
+TEQUILA                          686        5852   JPEG Quality=80
+WINE  Folie à Deux White or Red blend 6 Hess Chardonnay 7.5  Me      4164      118020   JPEG Quality=80
+HOMEMADE SANGRIA  Our special blend of  Patron Citronge, wine a      3255       70000   JPEG Quality=80
+rocks                          12598      293508   JPEG Quality=80
+two women                      20671      414400   JPEG Quality=80
+beer                             562        3528   JPEG Quality=80
+BOTTLED 3.5 Budweiser Coors Light Buckler- Non Alcoholic Redbri      3586       70620   JPEG Quality=80
+Bucket of 5 Coronitas 15         938        8316   JPEG Quality=80
+DRAUGHT 4.5 Negra Modelo Stone IPA Shock Top Dos Equis Karl Str      3586       66164   JPEG Quality=80
+  MARTINIS  Tequila Cosmo Cabo Wabo Silver Tequila, DeKuyper Tr      6578      187464   JPEG Quality=80
+Anejo Milagro 15 Don Julio 9 Tres  Generaciones 8.5 Chinaco 9 B      4108      102388   JPEG Quality=80
+Reposado El Jimador 7 Milagro 12 Cazadores 8.5 Clase Azule 13 P      5624      147972   JPEG Quality=80
+Layer 3                        20151      556668   JPEG Quality=80
+young2                         17368      418392   JPEG Quality=80
+ APERITIVOS - small plates  CHIPS AND SALSA Salsa verde and La       6856      208416   JPEG Quality=80
+tapas hour DAILY • 3:00 - 6:00pm Purchase any alcoholic beverag     10643      412000   JPEG Quality=80
+b&w                            22695      477224   JPEG Quality=80
+beer                           17084      445008   JPEG Quality=80
+NACHOS LA PLAYA Our style with frijoles negros, cheese, sour cr     20885      606712   JPEG Quality=80
+logo                           36068     1399440   JPEG Quality=80
+
+Event Sounds: 11KHz Mono 16 kbps MP3
+
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+wooshV1.mp3                  5344        11KHz Mono 16 kbps MP3
+
+
+
+

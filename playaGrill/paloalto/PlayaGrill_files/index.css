@@ -1,0 +1,54 @@
+#all-container {
+	left:70px;
+	position:absolute;
+	top:251px;
+	width:910px;
+}
+#body {
+	padding:10px;
+	width:890px;
+	position:relative;
+}
+#left {
+	float:left;
+	width:400px;
+}
+#right {
+	float:right;
+	width:396px;
+	margin-right:45px;
+}
+#home-image {
+	float:left;
+	width:331px;
+	margin-left:30px;
+	margin-bottom:30px;
+}
+#on-the-go {
+	float:left;
+	width:244px;
+	margin-left:75px;
+}
+#home-header {
+	float:right;
+	margin-top:0px;
+	width:396px;
+}
+body {
+	font-family:Tahoma;
+	font-size:12px;
+	color:#620000;
+}
+#text {
+	float:left;
+	margin-top:5px;
+	width:396px;
+}
+
+.soon {
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size: 22px;
+	color:#811123;
+	margin-bottom: 10px;
+	font-weight: bold;
+}

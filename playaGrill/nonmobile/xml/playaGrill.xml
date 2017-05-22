@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+<?processing instructions?>
+	<section title="playa home" id="0">
+	</section>
+	<section title="playa vibe" id="1">
+		<subSection title="ARCHITECTURAL" id="0">
+			<item title="healthcare gallery">
+			</item>
+			<item title="educational gallery">
+			</item>
+			<item title="commercial gallery">
+			</item>
+			<item title="residential gallery">
+			</item>
+		</subSection>
+		<subSection title="PRODUCT VISUALIZATION" id="1">
+			<item title="gallery">
+			</item>
+		</subSection>
+		<subSection title="CG CONTENT" id="2">
+			<item title="gallery">
+			</item>
+		</subSection>
+	</section>
+	<section title="playa food" id="3">
+	</section>
+	<section title="playa drink">
+		<item title="" id="">
+			<copy><![CDATA[]]></copy>
+			<image source=""></image>
+		</item>
+	</section>
+	<section title="playa to go">
+		<item title="" id="">
+			<copy><![CDATA[]]></copy>
+			<image source=""></image>
+		</item>
+	</section>
+	<section title="playa palo alto">
+		<item title="" id="">
+			<copy><![CDATA[]]></copy>
+			<image source=""></image>
+		</item>
+	</section>
+	<section title="hours">
+		<item title="" id="">
+			<copy><![CDATA[]]></copy>
+			<image source=""></image>
+		</item>
+	</section>
+</xml>
